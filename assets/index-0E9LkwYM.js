@@ -242,4 +242,4 @@ Error generating stack: `+o.message+`
   body {
     background-color: ${e=>e.theme.gray};
   }
-`,Rf={gray:"#323232",gray2:"#3d3c3c",black:"#0f0f0f",white:"#f6f6f6",blue:"#0085ff",green:"#32cd32",red:"#e92929"},c1=R0([{path:"/",element:J.jsx(u1,{})}]);ga.createRoot(document.getElementById("root")).render(J.jsx(ot.StrictMode,{children:J.jsxs(Ay,{theme:Rf,children:[J.jsx(s1,{theme:Rf}),J.jsx(I0,{router:c1})]})}));
+`,Rf={gray:"#323232",gray2:"#3d3c3c",black:"#0f0f0f",white:"#f6f6f6",blue:"#0085ff",green:"#32cd32",red:"#e92929"},c1=R0([{path:"/home",element:J.jsx(u1,{})}]);ga.createRoot(document.getElementById("root")).render(J.jsx(ot.StrictMode,{children:J.jsxs(Ay,{theme:Rf,children:[J.jsx(s1,{theme:Rf}),J.jsx(I0,{router:c1})]})}));
